@@ -58,7 +58,7 @@
 |其他|每日天气预报|获取指定的多个城市天气信息|每天一次|
 |其他|每日一句|从词霸中获取每日一句，带英文|每天一次|
 
-## 详细文档
+#
 
 文档地址：[https://sitoi.github.io/dailycheckin/](https://sitoi.github.io/dailycheckin/)
 
